@@ -10,3 +10,4 @@ Turn off and freeze Epson projectors and Newline smart boards. Also added is cod
 * 3 flashes is NA, 6 is EU
 * Arduino will ask to move files to new directory, allow this.
 * When doing freezing the code will be sent 10x, this may toggle the setting to combat this simply point away after freezing/unfreezing
+* The same code is used for all modes

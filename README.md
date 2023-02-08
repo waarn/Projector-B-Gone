@@ -2,6 +2,7 @@
 Turn off and freeze Epson projectors and Newline smart boards. Also added is code to turn off just about any TV in NA or EU. (Code from Ken Shirriff)
 ### Setup
 1. Download the repo
+   1a. DOWNLOAD AND ADD IRREMOTE LIBARY
 2. Extract repo
 3. Open repo in arduino (Move to new directory)
 4. Upload to your board
